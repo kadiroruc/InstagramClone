@@ -5,7 +5,6 @@
 - `Firebase (Realtime Database, Storage, Authentication)`
 - `Fully Programatic UI, closure-based view construction, anchor layouts`
 - `Delegate Patterns (Protocol Oriented Programming)`
-- `MVC`
 - `Property Observers`
 - `Collection View with Custom Cells`
 - `Extensions for UIView, Firebase Database etc.`
